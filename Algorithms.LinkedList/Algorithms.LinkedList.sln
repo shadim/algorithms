@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleIndexInOnePass", "MiddleIndexInOnePass\MiddleIndexInOnePass.csproj", "{3CDA33F7-A446-4AEC-98FE-027632E9362A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{9536769D-441D-48E7-866B-846FD05FA99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{3CDA33F7-A446-4AEC-98FE-027632E9362A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CDA33F7-A446-4AEC-98FE-027632E9362A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CDA33F7-A446-4AEC-98FE-027632E9362A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9536769D-441D-48E7-866B-846FD05FA99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536769D-441D-48E7-866B-846FD05FA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536769D-441D-48E7-866B-846FD05FA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536769D-441D-48E7-866B-846FD05FA99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
