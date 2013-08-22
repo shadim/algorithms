@@ -1,6 +1,0 @@
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.exe.config
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.exe
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.pdb
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\obj\Debug\MiddleIndexInOnePass.csprojResolveAssemblyReference.cache
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\obj\Debug\MiddleIndexInOnePass.exe
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\MiddleIndexInOnePass\obj\Debug\MiddleIndexInOnePass.pdb

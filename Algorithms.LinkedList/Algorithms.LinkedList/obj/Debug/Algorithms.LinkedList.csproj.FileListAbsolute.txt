@@ -1,1 +1,0 @@
-C:\Users\shadi\Documents\GitHub\algorithms\Algorithms.LinkedList\Algorithms.LinkedList\bin\Debug\Algorithms.LinkedList.exe.config
