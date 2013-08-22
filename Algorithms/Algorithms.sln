@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleIndexInOnePass", "Mid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{9536769D-441D-48E7-866B-846FD05FA99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{817F3B36-C583-41F7-93F8-BE8221183921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{9536769D-441D-48E7-866B-846FD05FA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9536769D-441D-48E7-866B-846FD05FA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9536769D-441D-48E7-866B-846FD05FA99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817F3B36-C583-41F7-93F8-BE8221183921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817F3B36-C583-41F7-93F8-BE8221183921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817F3B36-C583-41F7-93F8-BE8221183921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817F3B36-C583-41F7-93F8-BE8221183921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
