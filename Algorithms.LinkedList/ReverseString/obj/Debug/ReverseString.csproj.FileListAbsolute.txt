@@ -1,5 +1,0 @@
-C:\Users\shadi\Documents\GitHub\algorithms\algorithms\Algorithms.LinkedList\ReverseString\bin\Debug\ReverseString.exe.config
-C:\Users\shadi\Documents\GitHub\algorithms\algorithms\Algorithms.LinkedList\ReverseString\bin\Debug\ReverseString.exe
-C:\Users\shadi\Documents\GitHub\algorithms\algorithms\Algorithms.LinkedList\ReverseString\bin\Debug\ReverseString.pdb
-C:\Users\shadi\Documents\GitHub\algorithms\algorithms\Algorithms.LinkedList\ReverseString\obj\Debug\ReverseString.exe
-C:\Users\shadi\Documents\GitHub\algorithms\algorithms\Algorithms.LinkedList\ReverseString\obj\Debug\ReverseString.pdb
