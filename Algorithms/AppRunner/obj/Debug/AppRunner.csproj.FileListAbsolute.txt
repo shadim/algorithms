@@ -1,0 +1,8 @@
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\bin\Debug\AppRunner.exe.config
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\bin\Debug\AppRunner.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\bin\Debug\AppRunner.pdb
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\bin\Debug\Algorithms.Common.dll
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\bin\Debug\Algorithms.Common.pdb
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\obj\Debug\AppRunner.csprojResolveAssemblyReference.cache
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\obj\Debug\AppRunner.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\AppRunner\obj\Debug\AppRunner.pdb

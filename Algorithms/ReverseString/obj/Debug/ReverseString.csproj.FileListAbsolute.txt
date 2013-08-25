@@ -1,0 +1,6 @@
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\ReverseString\obj\Debug\ReverseString.pdb

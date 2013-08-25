@@ -1,0 +1,5 @@
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.exe.config
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\MiddleIndexInOnePass\bin\Debug\MiddleIndexInOnePass.pdb
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\MiddleIndexInOnePass\obj\Debug\MiddleIndexInOnePass.exe
+C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\MiddleIndexInOnePass\obj\Debug\MiddleIndexInOnePass.pdb
