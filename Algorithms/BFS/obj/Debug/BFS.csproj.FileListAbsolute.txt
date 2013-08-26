@@ -1,6 +1,0 @@
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\bin\Debug\BFS.exe.config
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\bin\Debug\BFS.exe
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\bin\Debug\BFS.pdb
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\obj\Debug\BFS.exe
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\BFS\obj\Debug\BFS.pdb

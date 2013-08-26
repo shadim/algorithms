@@ -1,5 +1,0 @@
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\Algorithms.Common\bin\Debug\Algorithms.Common.dll
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\Algorithms.Common\bin\Debug\Algorithms.Common.pdb
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\Algorithms.Common\obj\Debug\Algorithms.Common.dll
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\Algorithms.Common\obj\Debug\Algorithms.Common.pdb
-C:\Users\Shadi Massalha\DotNetDev\algorithms\Algorithms\Algorithms.Common\obj\Debug\Algorithms.Common.csprojResolveAssemblyReference.cache
