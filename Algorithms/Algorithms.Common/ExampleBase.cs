@@ -10,9 +10,7 @@ namespace Algorithms.Common
     {
 
         protected abstract string Name { get; }
-
-        protected abstract string Help { get; set; }
-
+         
         protected abstract void Initialize();
 
         protected abstract void RunExample();
@@ -27,18 +25,6 @@ namespace Algorithms.Common
         string IExample.Name
         {
             get { return Name; }
-        }
-
-        string IExample.Help
-        {
-            get
-            {
-                return Help;
-            }
-            set
-            {
-                Help = Help;
-            }
         }
 
         void IExample.Initialize()

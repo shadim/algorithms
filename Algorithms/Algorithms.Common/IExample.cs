@@ -9,9 +9,7 @@ namespace Algorithms.Common
     public interface IExample
     {
          String Name { get; }
-
-         String Help { get; set; }
-
+        
          void Initialize();
 
          void RunExample();

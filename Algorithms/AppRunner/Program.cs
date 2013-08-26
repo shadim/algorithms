@@ -11,10 +11,25 @@ namespace AppRunner
     {
         static void Main(string[] args)
         {
-            IExample example = new DFS();
+            IExample[] examples = new IExample[]{
+                new DFS(),
+                new BFS()
+            };
 
-            example.Execute();
+            Console.WriteLine("Select algorithm example:\r\n");
 
+            for (int i = 0; i < examples.Length; i++)
+            {
+                Console.WriteLine("[{0}]\t\t{1}", i + 1, examples[i].Name);
+            }
+
+            int result;
+            if (int.TryParse(Console.ReadLine(), out result))
+            {
+                IExample example = examples[result-1];
+
+                example.Execute();
+            }
             Console.WriteLine("Press any key to exit...");
 
             Console.ReadKey();
